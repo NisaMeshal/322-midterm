@@ -1,0 +1,28 @@
+body {
+    background-color: #F2F2F2;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: #6bbfa0;
+    color: white;
+    padding: 5px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+a, li a {
+    color: black;
+}
