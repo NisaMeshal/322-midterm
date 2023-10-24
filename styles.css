@@ -99,3 +99,10 @@ a, li a {
     color: white;
     padding: 10px;
 }
+
+/* about */
+.aboutprofile {
+    width: 70%;
+    border: #A62D37 solid 10px;
+    border-radius: 10px;
+}
